@@ -1,3 +1,9 @@
+#    **WARNING: NOT WORKING AT ALL LIKE EXTREMELY BUGGY**
+
+
+
+
+
 # 🎶 **Interactive Music Visualizer** 🎨
 
 Welcome to the **Interactive Music Visualizer** — the web app that brings your music to life through vibrant, dynamic, and artistic visualizations! 🖥️💫 With just a simple drag-and-drop interface, you can process a single song or an entire folder of songs, and generate stunning visual animations that respond to every beat and rhythm. 🎧🎶
